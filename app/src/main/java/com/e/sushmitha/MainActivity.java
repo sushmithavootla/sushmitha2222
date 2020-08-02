@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        System.out.println(" ml22 l");
+        System.out.println(" mhkil l");
+        System.out.println(" mhkil l");
     }
 }
